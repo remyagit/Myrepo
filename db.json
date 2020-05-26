@@ -3,7 +3,7 @@
 	{
 		name: "akash",
 		DOB: "22/04/1997",
-                marks: 80,
+                marks: "80",
                 address:"bidar, bangalore"
 	},
 	{
