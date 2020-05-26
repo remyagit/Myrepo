@@ -1,9 +1,9 @@
 {
   "student": [
 	{
-		name: "akash",
-		marks: "80",
-                address:"bidar bangalore"
+		"name": "akash",
+		"marks": 80,
+                "address":"bidar, bangalore"
 	}
 	
 ],
