@@ -1,37 +1,6 @@
 [
-	{
-		name: "akash",		
-                marks: "80",
-                address:"bidar, bangalore"
-	},
-	{
-		name: "avinash",		
-                marks: "74",
-                address:"belgaum, bangalore"
-	},
-	{
-		name: "praveen",		
-                marks: "78",
-                address:"haveri, bangalore"
-	},
-	{
-		name: "kiran",		
-                marks: "77",
-                address:"mysore, bangalore"
-	},
-	{
-		name: "meena",		
-                marks: "72",
-                address:"yadgir, bangalore"
-	},
-	{
-		name: "anju",		
-                marks: "75",
-                address:"chikkmaglur, bangalore"
-	},
-	{
-		name: "chetan",		
-                marks: "79",
-                address:"udupi, bangalore"
-	}
+   {
+      "id": 1,
+      "title": "hello"
+    }
 ]
