@@ -1,10 +1,48 @@
 {
   "student": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
+	{
+		name: "akash",
+		DOB: "22/04/1997",
+                marks: 80,
+                address:"bidar, bangalore"
+	},
+	{
+		name: "avinash",
+		DOB: "03/12/1994",
+                marks: 74,
+                address:"belgaum, bangalore"
+	},
+	{
+		name: "praveen",
+		DOB: "16/02/1996",
+                marks: 78,
+                address:"haveri, bangalore"
+	},
+	{
+		name: "kiran",
+		DOB: "18/11/1992",
+                marks: 77,
+                address:"mysore, bangalore"
+	},
+	{
+		name: "meena",
+		DOB: "07/09/1998",
+                marks: 72,
+                address:"yadgir, bangalore"
+	},
+	{
+		name: "anju",
+		DOB: "26/08/1992",
+                marks: 75,
+                address:"chikkmaglur, bangalore"
+	},
+	{
+		name: "chetan",
+		DOB: "12/04/1994",
+                marks: 79,
+                address:"udupi, bangalore"
+	}
+],
    "profile": {
     "name": "typicode"
   }
